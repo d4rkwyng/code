@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.Cache
+bin\Debug\Health Club Membership Fee Calculator.exe
+bin\Debug\Health Club Membership Fee Calculator.pdb
+bin\Debug\Health Club Membership Fee Calculator.xml
+obj\Debug\Health_Club_Membership_Fee_Calculator.frmMain.resources
+obj\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+obj\Debug\Health Club Membership Fee Calculator.exe
+obj\Debug\Health Club Membership Fee Calculator.xml
+obj\Debug\Health Club Membership Fee Calculator.pdb

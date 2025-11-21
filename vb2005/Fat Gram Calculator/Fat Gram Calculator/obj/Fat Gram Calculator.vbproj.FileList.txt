@@ -1,0 +1,20 @@
+bin\Debug\Fat Gram Calculator.exe
+bin\Debug\Fat Gram Calculator.pdb
+bin\Debug\Fat Gram Calculator.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Fat_Gram_Calculator.frmMain.resources
+obj\Debug\Fat_Gram_Calculator.Resources.resources
+obj\Debug\Fat Gram Calculator.vbproj.GenerateResource.Cache
+obj\Debug\Fat Gram Calculator.exe
+obj\Debug\Fat Gram Calculator.xml
+obj\Debug\Fat Gram Calculator.pdb
+bin\Release\Fat Gram Calculator.exe
+bin\Release\Fat Gram Calculator.pdb
+bin\Release\Fat Gram Calculator.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Fat_Gram_Calculator.frmMain.resources
+obj\Release\Fat_Gram_Calculator.Resources.resources
+obj\Release\Fat Gram Calculator.vbproj.GenerateResource.Cache
+obj\Release\Fat Gram Calculator.exe
+obj\Release\Fat Gram Calculator.xml
+obj\Release\Fat Gram Calculator.pdb
