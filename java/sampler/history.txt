@@ -1,0 +1,10 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                       Session Started
++
++ Toward: http://www.fyresystems.com/browser/jbutton.htm
++ Backward: http://www.fyresystems.com/browser
++ Toward: http://www.fyresystems.com/browser/jframe.htm
++ Backward: http://www.fyresystems.com/browser
++
++                       Thank you!
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
