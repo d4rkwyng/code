@@ -1,0 +1,20 @@
+bin\Debug\LS Array Values.exe
+bin\Debug\LS Array Values.pdb
+bin\Debug\LS Array Values.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LS_Array_Values.frmMain.resources
+obj\Debug\LS_Array_Values.Resources.resources
+obj\Debug\LS Array Values.vbproj.GenerateResource.Cache
+obj\Debug\LS Array Values.exe
+obj\Debug\LS Array Values.xml
+obj\Debug\LS Array Values.pdb
+bin\Release\LS Array Values.exe
+bin\Release\LS Array Values.pdb
+bin\Release\LS Array Values.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LS_Array_Values.frmMain.resources
+obj\Release\LS_Array_Values.Resources.resources
+obj\Release\LS Array Values.vbproj.GenerateResource.Cache
+obj\Release\LS Array Values.exe
+obj\Release\LS Array Values.xml
+obj\Release\LS Array Values.pdb

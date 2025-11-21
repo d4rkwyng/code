@@ -1,0 +1,20 @@
+bin\Debug\Math Tutor Application.exe
+bin\Debug\Math Tutor Application.pdb
+bin\Debug\Math Tutor Application.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Math_Tutor_Application.frmMain.resources
+obj\Debug\Math_Tutor_Application.Resources.resources
+obj\Debug\Math Tutor Application.vbproj.GenerateResource.Cache
+obj\Debug\Math Tutor Application.exe
+obj\Debug\Math Tutor Application.xml
+obj\Debug\Math Tutor Application.pdb
+bin\Release\Math Tutor Application.exe
+bin\Release\Math Tutor Application.pdb
+bin\Release\Math Tutor Application.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Math_Tutor_Application.frmMain.resources
+obj\Release\Math_Tutor_Application.Resources.resources
+obj\Release\Math Tutor Application.vbproj.GenerateResource.Cache
+obj\Release\Math Tutor Application.exe
+obj\Release\Math Tutor Application.xml
+obj\Release\Math Tutor Application.pdb
