@@ -1,0 +1,20 @@
+bin\Debug\Name and Address.exe
+bin\Debug\Name and Address.pdb
+bin\Debug\Name and Address.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Name_and_Address.frmMain.resources
+obj\Debug\Name_and_Address.Resources.resources
+obj\Debug\Name and Address.vbproj.GenerateResource.Cache
+obj\Debug\Name and Address.exe
+obj\Debug\Name and Address.xml
+obj\Debug\Name and Address.pdb
+bin\Release\Name and Address.exe
+bin\Release\Name and Address.pdb
+bin\Release\Name and Address.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Name_and_Address.frmMain.resources
+obj\Release\Name_and_Address.Resources.resources
+obj\Release\Name and Address.vbproj.GenerateResource.Cache
+obj\Release\Name and Address.exe
+obj\Release\Name and Address.xml
+obj\Release\Name and Address.pdb
