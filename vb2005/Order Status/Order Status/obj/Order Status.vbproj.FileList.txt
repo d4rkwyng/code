@@ -1,0 +1,20 @@
+bin\Debug\Order Status.exe
+bin\Debug\Order Status.pdb
+bin\Debug\Order Status.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Order_Status.frmMain.resources
+obj\Debug\Order_Status.Resources.resources
+obj\Debug\Order Status.vbproj.GenerateResource.Cache
+obj\Debug\Order Status.exe
+obj\Debug\Order Status.xml
+obj\Debug\Order Status.pdb
+bin\Release\Order Status.exe
+bin\Release\Order Status.pdb
+bin\Release\Order Status.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Order_Status.frmMain.resources
+obj\Release\Order_Status.Resources.resources
+obj\Release\Order Status.vbproj.GenerateResource.Cache
+obj\Release\Order Status.exe
+obj\Release\Order Status.xml
+obj\Release\Order Status.pdb

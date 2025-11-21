@@ -1,0 +1,20 @@
+bin\Debug\Workshop Selector.exe
+bin\Debug\Workshop Selector.pdb
+bin\Debug\Workshop Selector.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Workshop_Selector.frmMain.resources
+obj\Debug\Workshop_Selector.Resources.resources
+obj\Debug\Workshop Selector.vbproj.GenerateResource.Cache
+obj\Debug\Workshop Selector.exe
+obj\Debug\Workshop Selector.xml
+obj\Debug\Workshop Selector.pdb
+bin\Release\Workshop Selector.exe
+bin\Release\Workshop Selector.pdb
+bin\Release\Workshop Selector.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Workshop_Selector.frmMain.resources
+obj\Release\Workshop_Selector.Resources.resources
+obj\Release\Workshop Selector.vbproj.GenerateResource.Cache
+obj\Release\Workshop Selector.exe
+obj\Release\Workshop Selector.xml
+obj\Release\Workshop Selector.pdb

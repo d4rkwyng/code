@@ -1,0 +1,20 @@
+obj\Debug\Sum of Numbers.exe
+obj\Debug\Sum of Numbers.xml
+obj\Debug\Sum of Numbers.pdb
+bin\Debug\Sum of Numbers.exe
+bin\Debug\Sum of Numbers.pdb
+bin\Debug\Sum of Numbers.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sum_of_Numbers.frmMain.resources
+obj\Debug\Sum_of_Numbers.Resources.resources
+obj\Debug\Sum of Numbers.vbproj.GenerateResource.Cache
+bin\Release\Sum of Numbers.exe
+bin\Release\Sum of Numbers.pdb
+bin\Release\Sum of Numbers.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Sum_of_Numbers.frmMain.resources
+obj\Release\Sum_of_Numbers.Resources.resources
+obj\Release\Sum of Numbers.vbproj.GenerateResource.Cache
+obj\Release\Sum of Numbers.exe
+obj\Release\Sum of Numbers.xml
+obj\Release\Sum of Numbers.pdb

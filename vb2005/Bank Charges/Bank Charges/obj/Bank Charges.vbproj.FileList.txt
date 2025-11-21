@@ -1,0 +1,20 @@
+bin\Debug\Bank Charges.exe
+bin\Debug\Bank Charges.pdb
+bin\Debug\Bank Charges.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Bank_Charges.frmMain.resources
+obj\Debug\Bank_Charges.Resources.resources
+obj\Debug\Bank Charges.vbproj.GenerateResource.Cache
+obj\Debug\Bank Charges.exe
+obj\Debug\Bank Charges.xml
+obj\Debug\Bank Charges.pdb
+bin\Release\Bank Charges.exe
+bin\Release\Bank Charges.pdb
+bin\Release\Bank Charges.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Bank_Charges.frmMain.resources
+obj\Release\Bank_Charges.Resources.resources
+obj\Release\Bank Charges.vbproj.GenerateResource.Cache
+obj\Release\Bank Charges.exe
+obj\Release\Bank Charges.xml
+obj\Release\Bank Charges.pdb

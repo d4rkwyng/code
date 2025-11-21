@@ -1,0 +1,20 @@
+obj\Debug\Centigrade to Fahrenheit.exe
+obj\Debug\Centigrade to Fahrenheit.xml
+obj\Debug\Centigrade to Fahrenheit.pdb
+bin\Debug\Centigrade to Fahrenheit.exe
+bin\Debug\Centigrade to Fahrenheit.pdb
+bin\Debug\Centigrade to Fahrenheit.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Centigrade_to_Fahrenheit.frmMain.resources
+obj\Debug\Centigrade_to_Fahrenheit.Resources.resources
+obj\Debug\Centigrade to Fahrenheit.vbproj.GenerateResource.Cache
+bin\Release\Centigrade to Fahrenheit.exe
+bin\Release\Centigrade to Fahrenheit.pdb
+bin\Release\Centigrade to Fahrenheit.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Centigrade_to_Fahrenheit.frmMain.resources
+obj\Release\Centigrade_to_Fahrenheit.Resources.resources
+obj\Release\Centigrade to Fahrenheit.vbproj.GenerateResource.Cache
+obj\Release\Centigrade to Fahrenheit.exe
+obj\Release\Centigrade to Fahrenheit.xml
+obj\Release\Centigrade to Fahrenheit.pdb

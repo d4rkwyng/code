@@ -1,0 +1,22 @@
+bin\Debug\Student Test Scores.exe
+bin\Debug\Student Test Scores.pdb
+bin\Debug\Student Test Scores.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Student_Test_Scores.frmMain.resources
+obj\Debug\Student_Test_Scores.Resources.resources
+obj\Debug\Student Test Scores.vbproj.GenerateResource.Cache
+obj\Debug\Student Test Scores.exe
+obj\Debug\Student Test Scores.xml
+obj\Debug\Student Test Scores.pdb
+bin\Release\Student Test Scores.exe
+bin\Release\Student Test Scores.pdb
+bin\Release\Student Test Scores.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Student_Test_Scores.frmMain.resources
+obj\Release\Student_Test_Scores.Resources.resources
+obj\Release\Student Test Scores.vbproj.GenerateResource.Cache
+obj\Release\Student Test Scores.exe
+obj\Release\Student Test Scores.xml
+obj\Release\Student Test Scores.pdb
+obj\Debug\Student_Test_Scores.frmAbout.resources
+obj\Release\Student_Test_Scores.frmAbout.resources

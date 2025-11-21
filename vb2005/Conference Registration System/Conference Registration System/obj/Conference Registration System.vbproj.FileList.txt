@@ -1,0 +1,22 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Conference_Registration_System.frmMain.resources
+obj\Debug\Conference_Registration_System.frmOptions.resources
+obj\Debug\Conference_Registration_System.Resources.resources
+obj\Debug\Conference Registration System.vbproj.GenerateResource.Cache
+bin\Debug\Conference Registration System.exe
+bin\Debug\Conference Registration System.pdb
+bin\Debug\Conference Registration System.xml
+obj\Debug\Conference Registration System.exe
+obj\Debug\Conference Registration System.xml
+obj\Debug\Conference Registration System.pdb
+bin\Release\Conference Registration System.exe
+bin\Release\Conference Registration System.pdb
+bin\Release\Conference Registration System.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Conference_Registration_System.frmMain.resources
+obj\Release\Conference_Registration_System.frmOptions.resources
+obj\Release\Conference_Registration_System.Resources.resources
+obj\Release\Conference Registration System.vbproj.GenerateResource.Cache
+obj\Release\Conference Registration System.exe
+obj\Release\Conference Registration System.xml
+obj\Release\Conference Registration System.pdb

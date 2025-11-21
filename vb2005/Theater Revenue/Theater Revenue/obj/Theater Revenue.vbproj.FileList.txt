@@ -1,0 +1,20 @@
+obj\Debug\Theater Revenue.exe
+obj\Debug\Theater Revenue.xml
+obj\Debug\Theater Revenue.pdb
+bin\Debug\Theater Revenue.exe
+bin\Debug\Theater Revenue.pdb
+bin\Debug\Theater Revenue.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Theater_Revenue.frmMain.resources
+obj\Debug\Theater_Revenue.Resources.resources
+obj\Debug\Theater Revenue.vbproj.GenerateResource.Cache
+bin\Release\Theater Revenue.exe
+bin\Release\Theater Revenue.pdb
+bin\Release\Theater Revenue.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Theater_Revenue.frmMain.resources
+obj\Release\Theater_Revenue.Resources.resources
+obj\Release\Theater Revenue.vbproj.GenerateResource.Cache
+obj\Release\Theater Revenue.exe
+obj\Release\Theater Revenue.xml
+obj\Release\Theater Revenue.pdb
