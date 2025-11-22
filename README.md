@@ -1,6 +1,5 @@
 # code
-Disclaimer: Code is from class assignments.  All source code is of my own and may be used freely at your own use.  I hold no responsibility for the files on this site. Download at your own risk.
-Github
+Disclaimer: Code is from class assignments.  All source code is of my own and may be used freely at your own use.
 
 
 ### Assembly 
